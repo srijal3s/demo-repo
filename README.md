@@ -1,7 +1,4 @@
 # Demo
-
-This is simran
-Tis is shivam
+this is shivam
 ## Subheader
-This is Jack
-I love jack
+this is shivam
